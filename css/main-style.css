@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+h2 {
+  text-align: center;
+  color: white;
+  padding: 40px;
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto,
+    Helvetica Neue, sans-serif;
+  font-weight: 300;
+}
+body {
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto,
+    Helvetica Neue, sans-serif;
+}
+header {
+  position: relative;
+  z-index: 1;
+}
+.navbar {
+  background: black;
+  padding: 30px;
+}
+.nav-link,
+.navbar-brand {
+  color: white;
+}
+.justify-content-center {
+  padding-left: 18%;
+}
+
+.fas {
+  padding-right: 20px;
+}
+.dropdown {
+  padding-right: 20px;
+}
+.container-fluid {
+  background: black;
+  width: 100%;
+}
+.img-fluid {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.hekk {
+  background: white;
+  z-index: 10;
+  max-width: 50%;
+  padding: 0%;
+  left: 380px;
+  top: 80px;
+  position: relative;
+}
+/* .search-btn-p {
+  font-weight: 1000;
+} */
+.btn-search {
+  padding-left: 20px;
+  padding-right: 50px;
+  padding-top: 20px;
+  background-color: white;
+  border-radius: 0px;
+}
+.btn:hover {
+  background-color: #dcdcdc;
+}
+p {
+  font-size: 0.9em;
+  line-height: 0.2em;
+  text-align: left;
+}
+.fw-bold {
+  font-weight: 800;
+}
+.vertical-line {
+  border-left: 1px solid #dcdcdc;
+  max-height: 10%;
+}
+.fas {
+  color: white;
+  padding-left: 20px;
+}
+.btn-seacrh-icon {
+  background: linear-gradient(
+    111.95647678511193deg,
+    rgba(231, 62, 162, 1) 5.533854166666667%,
+    rgba(248, 193, 105, 1) 96.67968749999999%
+  );
+  border: none;
+  padding: 10px;
+}
+
+.btn-seacrh-icon:hover {
+  transition: transform 0.5s;
+  transform: scale(1.1);
+}
