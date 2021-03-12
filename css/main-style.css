@@ -33,7 +33,7 @@ header {
 .dropdown {
   padding-right: 20px;
 }
-.container-fluid {
+.container_01 {
   background: black;
   width: 100%;
 }
@@ -63,7 +63,7 @@ header {
 .btn:hover {
   background-color: #dcdcdc;
 }
-p {
+.para {
   font-size: 0.9em;
   line-height: 0.2em;
   text-align: left;
@@ -75,7 +75,7 @@ p {
   border-left: 1px solid #dcdcdc;
   max-height: 10%;
 }
-.fas {
+.fa-search {
   color: white;
   padding-left: 20px;
 }
