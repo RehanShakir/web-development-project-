@@ -93,3 +93,27 @@ header {
   transition: transform 0.5s;
   transform: scale(1.1);
 }
+.row > .col-sm > img {
+  height: 72px;
+  width: 72px;
+  border-radius: 15px;
+}
+.row > .col-sm > p {
+  position: absolute;
+  display: inline;
+  margin-top: 15px;
+  padding-left: 8px;
+}
+.paraa {
+  padding-top: 25px;
+  padding-left: 8px;
+}
+.container-2-exploreNearby {
+  padding-top: 20px;
+}
+.container > h2 {
+  color: black;
+  text-align: left;
+  margin-left: -2%;
+  font-weight: 900;
+}
